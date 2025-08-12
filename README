@@ -2,7 +2,7 @@
 
 ESP32-S3 Dongle is a special form ESP32-S3 development board made by MuseLab. The main chip of this development board is ESP32-S3FN8, and the Flash size is 8MB, It features on-board Boot key and ceramic antenna. SDCard Slot, Download using the built-in serial port of the chip, It is exquisite and compact like a small U disk and can be used in some special scenarios use such as WiFi gateway,  USB Dongle, etc.
 
-![esp32-s3](https://github.com/wuxx/esp32-s3-dongle/blob/main/doc/esp32-s3-1.jpg)
+![esp32-s3](https://github.com/wuxx/esp32-s3-dongle/blob/master/doc/esp32-s3-1.jpg)
 
 ## How to Use
 
